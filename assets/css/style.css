@@ -101,3 +101,14 @@ footer {
     text-align: center;
     padding: 20px;
 }
+
+#cadastro form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#cadastro button {
+    width: 150px;
+    margin-top: 10px;
+}
